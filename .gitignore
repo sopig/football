@@ -1,0 +1,7 @@
+DerivedData/
+xcshareddata/
+*.xcscmblueprint
+xcuserdata/
+.DS_S*
+.DS_Store
+
